@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi! I am <a target="_blank" href="https://cstayyab.com">@cstayyab</a></h1>
+<p align="center"><samp>{ "role": "Full Stack Web Developer", "company": "<a target="_blank" href="https://github.com/Virtoxed">Virtoxed Technologies</a>"}</samp></p>
 
 <!--
 **cstayyab/cstayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cstayyab&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_title=true" />
+</p>
