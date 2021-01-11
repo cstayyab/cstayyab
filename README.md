@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I am <a target="_blank" href="https://cstayyab.com">@cstayyab</a></h1>
-<p align="center"><samp>{ "role": "Full Stack Web Developer", "company": "<a target="_blank" href="https://github.com/Virtoxed">Virtoxed Technologies</a>"}</samp></p>
+<p align="center"><samp>{ "role": "Software Engineer", "company": "<a target="_blank" href="https://www.xcentricservices.com/">Xcentric Services</a>"}</samp></p>
 
 <!--
 **cstayyab/cstayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
