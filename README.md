@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 [![unofficial WhatsApp Client for Linux (WALC)](https://github-readme-stats.vercel.app/api/pin/?username=cstayyab&repo=WALC)](https://github.com/cstayyab/WALC)
 [![load.CSS (Loading Animations using CSS3 ) ](https://github-readme-stats.vercel.app/api/pin/?username=cstayyab&repo=load.css)](https://github.com/cstayyab/load.css)
 [![Node.JS Wrapper for CleanURI URL Shortner API](https://github-readme-stats.vercel.app/api/pin/?username=cstayyab&repo=node-cleanuri)](https://github.com/cstayyab/node-cleanuri)
+
+### My Patrons
+
+[<img alt="Become a patron" src="https://user-images.githubusercontent.com/29598866/117558212-bef04d80-b094-11eb-98b1-48e2d6cb7bfb.png"  width="200px" />](https://www.patreon.com/cstayyab)
