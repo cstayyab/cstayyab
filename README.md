@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Active Projects
-[![unofficial WhatsApp Client for Linux (WALC)](https://github-readme-stats.vercel.app/api/pin/?username=cstayyab&repo=WALC)](https://github.com/cstayyab/WALC)
+[![unofficial WhatsApp Client for Linux (WALC)](https://github-readme-stats.vercel.app/api/pin/?username=WAClient&repo=WALC)](https://github.com/cstayyab/WALC)
 [![load.CSS (Loading Animations using CSS3 ) ](https://github-readme-stats.vercel.app/api/pin/?username=cstayyab&repo=load.css)](https://github.com/cstayyab/load.css)
 [![Node.JS Wrapper for CleanURI URL Shortner API](https://github-readme-stats.vercel.app/api/pin/?username=cstayyab&repo=node-cleanuri)](https://github.com/cstayyab/node-cleanuri)
 
