@@ -3,7 +3,8 @@
 
 <a href="https://www.icj-cij.org/sites/default/files/case-related/192/192-20240126-sum-01-00-en.pdf" target="_blank"><img width="200px" alt="#FreePalestine" src="https://img.shields.io/badge/%23FreePalestine-%23149954?label=%F0%9F%87%B5%F0%9F%87%B8&link=https%3A%2F%2Fwww.icj-cij.org%2Fsites%2Fdefault%2Ffiles%2Fcase-related%2F192%2F192-20240126-sum-01-00-en.pdf"></a>
 
-The badge above supports the #FreePalestine movement, linking to the International Court of Justice's ruling on actions required to stop the genocide of Palestinians and address the situation in the Gaza Strip. It reflects my advocacy for human rights and the global call for justice and peace in all regions, including Palestine.
+> [!IMPORTANT]  
+> *The badge above supports the #FreePalestine movement, linking to the International Court of Justice's ruling on actions required to stop the genocide of Palestinians and address the situation in the Gaza Strip. It reflects my advocacy for human rights and the global call for justice and peace in all regions, including Palestine.*
 
 <img src="https://ga-beacon.appspot.com/UA-144002431-2/cstayyab/readme.md?useReferer&pixel" width="0" height="0" />
 <p align="center">
