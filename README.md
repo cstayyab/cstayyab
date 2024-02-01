@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I am <a target="_blank" href="https://cstayyab.com">@cstayyab</a></h1>
-<p align="center"><samp>{ "role": "Software Engineer", "company": "<a target="_blank" href="https://www.envoymobile.com/">Envoy Innovations</a>"}</samp></p>
+<p align="center"><samp>{ "role": "Software Engineer", "company": "<a target="_blank" href="https://primefit.ae/lifestyle-coaching-app/">PrimeFit</a>"}</samp></p>
 
 <!--
 **cstayyab/cstayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,16 @@ Here are some ideas to get you started:
 
 <img src="https://ga-beacon.appspot.com/UA-144002431-2/cstayyab/readme.md?useReferer&pixel" width="0" height="0" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cstayyab&show_icons=true&theme=vue&count_private=true&include_all_commits=true&hide_title=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstayyab&langs_count=3&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cstayyab&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstayyab&theme=transparent&langs_count=3&hide_title=true&hide_border=true" />
 </p>
+
+### 📫 How to Reach Me:
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/cstayyab?style=social)](https://twitter.com/cstayyab)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cstayyab)
+
 
 <!--
 ### Active Projects
