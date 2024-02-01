@@ -1,5 +1,7 @@
 <h1 align="center">Hi! I am <a target="_blank" href="https://cstayyab.com">@cstayyab</a></h1>
 <p align="center"><samp>{ "role": "Software Engineer", "company": "<a target="_blank" href="https://primefit.ae/lifestyle-coaching-app/">PrimeFit</a>"}</samp></p>
+<p align="center"><img width="300px" alt="#FreePalestine" src="https://img.shields.io/badge/%23FreePalestine-%23149954?label=%F0%9F%87%B5%F0%9F%87%B8&link=https%3A%2F%2Fwww.icj-cij.org%2Fsites%2Fdefault%2Ffiles%2Fcase-related%2F192%2F192-20240126-sum-01-00-en.pdf">
+</p>
 
 <!--
 **cstayyab/cstayyab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
